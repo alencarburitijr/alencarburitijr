@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=eribertoberlt.visitor-badge)](https://github.com/eribertoberlt)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reytler)](https://github.com/eribertoberlt)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eribertoberlt/)](https://www.linkedin.com/in/eribertoberlt/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eribertoberlt@hotmail.com)](mailto:eribertoberlt@hotmail.com)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=alencarburitijr.visitor-badge)](https://github.com/alencarburitijr)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reytler)](https://github.com/alencarburitijr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alencarburitijr/)](https://www.linkedin.com/in/alencarburitijr/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alencarburitijr@hotmail.com)](mailto:alencarburitijr@hotmail.com)
 
 <br>
 
